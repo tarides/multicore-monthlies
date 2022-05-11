@@ -955,14 +955,6 @@ and current-bench project tasks are mentioned for your reference.
 
 ##### Frontend
 
-* [ocurrent/current-bench#344](https://github.com/ocurrent/current-bench/issues/344)
-  Show the same sub-metric in the same color across different metric graphs
-
-  A UI enhancement to show the same colour for a sub-metric across all
-  the graphs has been completed.
-
-  ![Current-bench-issue-344](images/Current-bench-issue-344-illustration.png)
-  
 * [ocurrent/current-bench#347](https://github.com/ocurrent/current-bench/pull/347)
   Frontend: Use same color for a sub-metric across different graphs
 
