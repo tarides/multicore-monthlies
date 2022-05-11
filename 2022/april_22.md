@@ -969,7 +969,7 @@ and current-bench project tasks are mentioned for your reference.
   We now use the same colour for each of the sub-metrics, in order to
   understand graphs for metrics like OCaml/OCaml.
   
-  ![Current-bench-PR-347](images/Current-bench-PR-347.png)
+  ![Current-bench-PR-347](images/Current-bench-PR-347-graph.png)
 
 * [ocurrent/current-bench#349](https://github.com/ocurrent/current-bench/pull/349)
   Hide closed PRs in the UI
@@ -977,6 +977,8 @@ and current-bench project tasks are mentioned for your reference.
   The old closed and merged PRs are visible in the sidebar, which was
   making it harder to view all the active benchmarks. This PR hides
   the closed PRs to help in easier naviagtion.
+
+  ![Current-bench-PR-349](images/Current-bench-PR-349.png)
 
 * [ocurrent/current-bench#350](https://github.com/ocurrent/current-bench/pull/350)
   Frontend: Fix crash when worker list is empty for a project
