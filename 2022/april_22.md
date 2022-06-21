@@ -303,8 +303,6 @@ and current-bench project tasks are mentioned for your reference.
   refactored. Their init functions are also different from
   `caml_startup_common`.
 
-### Closed
-
 ### Completed
 
 #### Build
@@ -876,7 +874,7 @@ and current-bench project tasks are mentioned for your reference.
 
   Thte `libirmin.opam` installation disables ARM64 and hence the same
   need to be skipped when running the Irmin benchmarks on the
-  Raspberry Pi 4. The installatio of `irmin-bench.opam` is sufficient.
+  Raspberry Pi 4. The installation of `irmin-bench.opam` is sufficient.
 
 #### Closed
 
